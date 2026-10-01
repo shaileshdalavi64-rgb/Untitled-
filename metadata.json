@@ -1,0 +1,6 @@
+{
+  "name": "SMA 44 Scanner",
+  "description": "Real-time SMA 44 rising and falling stock scanner for NSE & BSE with instant push notifications, interactive candlestick charts, and swing trading alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
